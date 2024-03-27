@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do meu projeto fullstack! Este projeto utiliza uma stack moderna e eficiente, combinando tecnologias no frontend e no backend para criar uma aplicação robusta e escalável.
 
+**obs: eu estou usando o render como hospendagem para o backend, mas o serviço é gratuito e um pouco lento... após fazer o cadastro na plataforma ( todo ) aguarde alguns segundos até aparecer uma notificação de conta criada, ai você poderá prosseguir.**
+
 ## Tecnologias Utilizadas
 
 ### Frontend
